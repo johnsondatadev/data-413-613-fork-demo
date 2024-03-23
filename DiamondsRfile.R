@@ -1,5 +1,5 @@
 library(tidyverse)
 library(dplyr)
-# James Dickens
+# James C Dickens
 diamonds%>%
   slice(10:15)
